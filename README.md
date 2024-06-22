@@ -10,12 +10,9 @@ TODO
 - dienstleistungen overlay box borders (DONE)
 
 - Navbar links box
-- Hero text abstand
+- Hero text abstand(DONE)
 
-- datenschutzrichtlinie -> pop-up?
-  Datenschutzerklärung
-
-Auf unserer Webseite werden keine personenbezogenen Daten gesammelt. Unsere Seite enthält lediglich Links zu externen Webseiten, insbesondere zu unserer Treatwell-Seite. Bitte beachten Sie, dass durch das Klicken auf diese Links personenbezogene Daten an die verlinkten Seiten übermittelt werden können. Für die Datenschutzpraktiken dieser Seiten sind die jeweiligen Betreiber verantwortlich. Weitere Informationen finden Sie in den Datenschutzerklärungen der jeweiligen Webseiten.
+- datenschutzrichtlinie -> pop-up? (DONE)
 
 - warum uns wählen webm video
 - video automatisch, no sound, loop

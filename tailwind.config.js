@@ -32,6 +32,12 @@ module.exports = {
         slideUp: "slideUp 1.3s ease-out",
         slideInLeft: "slideInLeft 1.3s ease-out",
       },
+      transitionDelay: {
+        0: "0ms",
+        500: "500ms",
+        1000: "1000ms",
+        1500: "1500ms",
+      },
     },
   },
   plugins: [],
